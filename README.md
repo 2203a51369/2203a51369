@@ -4,7 +4,8 @@
 **SR UNIVERSITY , WARANGAL
 📍 telangana, India  
 🛰️ **IoT | Embedded Systems | Drone Tech**  
-💡 Project: *Blue Guard - Ocean Cleaning Drones*
+💡 Project: *Blue Guard - Ocean Cleaning Drones
+smart home using arduino *
 
 ---
 
@@ -32,7 +33,7 @@
 
 ## 📫 Connect with Me
 
-[📧 Email](mailto:sajid@example.com)  
+[📧 Email](2203A51369@sru.edu.in)
 [💼 LinkedIn](https://linkedin.com) (update your link here)  
 
 ---
